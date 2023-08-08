@@ -18,7 +18,7 @@
     tamaño1 = 'S';
     tamaño1 = 'M';
     tamaño1 = 'L';
-    tamaño1 = 'asdkashd';
+    //tamaño1 = 'asdkashd';
     
     //Tambien puede hacerse de la siguiente manera
     type sizes = 'S' | 'M'  | 'L'  |  'XL'  ; 

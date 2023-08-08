@@ -1,0 +1,7 @@
+(()=>{
+const calcTotal = (prices:number[]) =>{
+    
+}
+
+
+})();
